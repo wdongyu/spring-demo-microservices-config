@@ -11,7 +11,7 @@ spring:
   zipkin:
 
 server:
-  port: 8084
+  port: 8083
 eureka:
   client:
     serviceUrl:
